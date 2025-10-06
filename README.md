@@ -3,7 +3,7 @@
 # Práctica 1: Diseño de controladores
 
 ## Información del estudiante
-Nombres y Apellidos \[No. Control]; correo institucional
+Ian E. Estrada [22211753]; l22211753@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
